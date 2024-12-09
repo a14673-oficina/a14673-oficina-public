@@ -24,7 +24,7 @@ Escreve um programa que imprima "Olá, mundo!" no ecrã.
 Cria uma variável chamada "fruta" e atribuiu o nome de uma fruta.
 Imprime no ecrã a frase "Eu gosto de [fruta]."
 """
-print("Olá Mundo!");
+print("Olá Mndo!");
 fruta = "Maças";
 print(f"Eu gosto de {fruta}.");
 
